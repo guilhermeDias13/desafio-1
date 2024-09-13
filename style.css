@@ -1,12 +1,10 @@
 *{
     margin: 0px;
     font-family: 'inter';
-
 }
 
 
 .menusuperior{
-    
     display: grid;
     height: 445px;
     background: #303030;
@@ -15,29 +13,27 @@
 
 
 .titulo-menusuperior{
-  font-size: 60px;
-  color: aliceblue;
-  margin-left: 62px;
-  margin-top: 206px;
-
+    font-size: 60px;
+    color: aliceblue;
+    margin-left: 62px;
+    margin-top: 206px;
 }
 
 #texto-menu-superior{
-  padding: 25px;
-  margin-left: 50px;
-  font-size: 20px;
-  color: aliceblue;
-  padding-bottom: 160px;
- 
+    padding: 25px;
+    margin-left: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    padding-bottom: 160px;
 }
 
 
 .graphy{
     background-color: #f9f9f9;
     Height:229px;
-   display: grid;
-   grid-auto-flow: column; 
-   columns: auto;   
+    display: grid;
+    grid-auto-flow: column; 
+    columns: auto;   
 }
 
 .service{
@@ -47,9 +43,9 @@
 .texto-graphy{
     color: black;
     font-size: 20px;
-    font-family: 'inter';
-    
+    font-family: 'inter';       
 }
+
  .graphy-numero{
     margin-top: 96px;
     font-size: 40px;
@@ -63,8 +59,8 @@
 
  #info{
     font-size: 40px;
-  margin-top: 200px;
-  margin-left: 100px;
+    margin-top: 200px;
+    margin-left: 100px;
 }
 
 #textgraphy{
@@ -73,16 +69,16 @@
     top: 1003px;
     left: 77px;
     font-size: 24px;
-   margin-top: 25px;
-   margin-left: 100px;
+    margin-top: 25px;
+    margin-left: 100px; 
 }
 
 #img-1{
     width: 510px;
-  height: 605px;
-  border-radius: 30px;
-  margin-left: 100px;
-  margin-bottom: 100px;
+    height: 605px;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-bottom: 100px;
 }
 
 
@@ -92,7 +88,6 @@
     height: 445px;
     background: #303030;
     border: 1px solid #303030;
-
 }
 
 #tituloformulario{
